@@ -240,7 +240,6 @@ img {
     font-weight: 600;
     transition: var(--transition);
     white-space: nowrap;
-    
     border: none;
     cursor: pointer;
     font-family: inherit;
@@ -437,7 +436,7 @@ details[open] summary::after { content: '-'; }
     .grid-container { grid-template-columns: 1fr; gap: 15px; }
     
     .left-col { aspect-ratio: 3 / 4; }
-    #img215 { width: 100%; bottom: -10%; }
+    #img215 { width: 90%; bottom: -23%; }
     
     .info-card {
         padding: 30px 20px;
